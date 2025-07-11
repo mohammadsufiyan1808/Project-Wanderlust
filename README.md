@@ -1,7 +1,5 @@
 # Project-Wanderlust
 
-# Project-Wanderlust
-
 # WanderHotels – Full-Stack Travel Stay App
 
 WanderHotels is a full-stack travel stay listing platform where users can explore and review properties, and hotel owners can add and manage their own listings.  
