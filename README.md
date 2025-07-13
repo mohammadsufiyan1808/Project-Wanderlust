@@ -46,7 +46,7 @@ SESSION_SECRET=your_session_secret
 
 3.	Start the app:
 npm start
-Visit: http://localhost:3000/listings
+Visit: http://localhost:8080/listings
 
 //Website is live:
 click the link: https://project-wander-hotels.onrender.com/listings
